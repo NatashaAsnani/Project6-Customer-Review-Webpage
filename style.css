@@ -78,78 +78,15 @@ h5{
 }
 
 @media (max-width: 992px) {
+    .customer{
+        left: 20px;
+    }
     .first {
         margin-bottom: 30px;
-        left: 40px;
+        left: 45px;
         margin-top: 40px;
     }
     .second{
-        left: 40px;
+        left: 45px;
     }
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-/* @media (max-width: 576px) {
-    .first{
-        flex-wrap: wrap;
-        margin-left: 50px;
-        display: block;
-    }
-    .second{
-        margin-top: 50px;
-    }
-    .third{
-        margin-top: 50px;
-    }
-}
-@media (max-width: 768px) {
-    .first{
-        position: absolute;
-        display: block;
-        flex-wrap: wrap;
-        margin-left: 90px;
-    }
-    .second{
-        margin-top: 50px;
-    }
-    .third{
-        margin-top: 50px;
-    }
-}
-@media (max-width: 992px) {
-    .first{
-        position: absolute;
-        flex-wrap: wrap;
-        left: 0px;
-    }
-    .second{
-        position: absolute;
-        left: 270px;
-    }
-    .third{
-        flex-wrap: wrap;
-        position: absolute;
-        left: 550px;
-    }
-}
-@media (max-width: 1200px) {
-    .first{
-        flex-wrap: wrap;
-    }
-}
-@media (max-width: 1400px) {
-    .first{
-        flex-wrap: wrap;
-    }
-} */
